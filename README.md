@@ -1,11 +1,11 @@
-# react-apollo-link-state-apollo-cache-redux-example
+# react-apollo-client-apollo-cache-redux-example
 
-A React application using Apollo Client with [apollo-cache-redux](https://github.com/rportugal/apollo-cache-redux) for local state management. Rather than having Apollo Client (apollo-cache-inmemory) and Redux side by side, this library attempts to **combine both worlds (Apollo, Redux) to manage local and remote state**.
+A React application using Apollo Client with [apollo-cache-redux](https://github.com/rportugal/apollo-cache-redux) for state management. Rather than having Apollo Client (apollo-cache-inmemory) and Redux side by side, this library attempts to **combine both worlds (Apollo, Redux) to manage local and remote state**.
 
 ## Installation
 
-* `git clone git@github.com:rwieruch/react-apollo-link-state-apollo-cache-redux-example.git`
-* cd react-apollo-link-state-apollo-cache-redux-example
+* `git clone git@github.com:rwieruch/react-apollo-client-apollo-cache-redux-example.git`
+* cd react-apollo-client-apollo-cache-redux-example
 * npm install
 * [add your own REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN in .env file](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/)
   * scopes/permissions you need to check: admin:org, repo, user, notifications
