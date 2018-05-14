@@ -1,6 +1,6 @@
 # react-apollo-client-apollo-cache-redux-example
 
-A React application using Apollo Client with [apollo-cache-redux](https://github.com/rportugal/apollo-cache-redux) for state management. Rather than having Apollo Client (apollo-cache-inmemory) and Redux side by side, this library attempts to **combine both worlds (Apollo, Redux) to manage local and remote state**.
+A React application using Apollo Client with [apollo-cache-redux](https://github.com/rportugal/apollo-cache-redux) for state management. Rather than having Apollo Client (apollo-cache-inmemory) and Redux side by side, this library attempts to **combine both worlds (Apollo, Redux) to manage local and remote state**. [Read more about it here](https://www.robinwieruch.de/react-redux-apollo-client-state-management-tutorial).
 
 ## Installation
 
